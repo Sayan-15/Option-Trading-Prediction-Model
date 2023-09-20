@@ -1,1 +1,1 @@
-# Sem-6-Project
+Option Trading {rediction tools Based on Nifty 50.
