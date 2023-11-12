@@ -1,0 +1,43 @@
+body{
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.main{
+    padding: 30px;
+}
+
+.header{
+    width: 100%;
+}
+
+.navbar-nav .nav-link.active .nav-link a{
+color: white;
+}
+
+.navbar-nav .nav-link.active {
+    color: white;
+}
+
+.navbar{
+    background-color:#02c799;
+    border-radius: 3px;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    background: transparent;
+}
+
+.macd{
+text-align: center;
+}
+
+.bollinger{
+text-align: center;
+margin: 40px;
+}
