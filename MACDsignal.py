@@ -1,11 +1,11 @@
 #Data Source
-!pip install yfinance
+
 import yfinance as yf
 
 #Data viz
 import plotly.graph_objs as go
 import plotly as pt
-!pip install pandas_ta
+
 import pandas_ta as ta
 import matplotlib.pyplot as plt
 from datetime import date
@@ -83,5 +83,5 @@ ax1.scatter(data.index, data['MACD_Sell_Signal_price'], color='red', marker='v',
 ax1.legend()
 ax1.grid()
 ax1.set_xlabel('Date', fontsize=8)
-
+plt.savefig('MACDindicator.png')
 
