@@ -6,10 +6,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">IPO Predictor</h3>
+  <h3 align="center">Option Trading Prediction Tool</h3>
 
   <p align="center">
-    An Project to analyze and predict weekly profitable IPOs
+    An Project to analyze and predict put or call decision for Nifty50 Option Trading
   </p>
 </div>
 
@@ -23,17 +23,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are various internal and external factors that affects the prices of stocks. Apart from the
 data, these factors can largely impact the stock prices. Also, to improve the accuracy of the
 prediction, considering these factors is important. The stock prices fluctuate a lot whenever a
-sudden news strikes the market that can affect the financial factors of the stocks [1]. Also, we
+sudden news strikes the market that can affect the financial factors of the stocks. Also, we
 have to keep a track on the circulars that are released by SEBI (Security and Exchange board
 of India) as they can directly affect the market trend. Various approaches are used to deal
 with these problems. We have tried to get prediction of stock price using Twitter. Twitter is
 platform where we can get latest tweets and news regarding financial data and internal
-management of various companies [2][3]. All special characters along with the stop words
+management of various companies. All special characters along with the stop words
 were removed. Then we have filtered the data and the tweets were divided as negative neutral
 and positive depending upon their news.
 Also, we have provided the user news stock feed which will display all the financial related
