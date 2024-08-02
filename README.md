@@ -75,7 +75,7 @@ _Below is an example of how you can instruct your audience on installing and set
 https://github.com/Kumarsn680/final-fourth-year-project/assets/89124061/0ab0550e-70d0-4e22-9c3c-e8d400e546ad
 
 ## License
-This project is licensed under the [GPL3.0] - see the LICENSE.md file for details.
+This project is licensed under the [Apache 2.0] - see the LICENSE.md file for details.
 
 
 
